@@ -1,0 +1,4 @@
+<profesores>
+<profesor id="1" cedula="101110111" area="Economia" nombre="Carlos Perez" titulo="Licenciado" correo="carlos@xyz.com" telefono="3456-7890"/>
+<profesor id="2" cedula="202220222" area="Matematica" nombre="Luis Torres" titulo="Master" correo="luis@xyz.com" telefono="6677-3456"/>
+</profesores>
